@@ -1,4 +1,3 @@
-import json
 import os
 
 # Nombre del archivo para guardar los datos
