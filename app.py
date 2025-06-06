@@ -125,7 +125,7 @@ def main():
         elif opcion == '2':
             ver_prestamos()
         elif opcion == '3':
-t            registrar_pago()
+            registrar_pago()
         elif opcion == '4':
             print("¡Hasta luego!")
             break
